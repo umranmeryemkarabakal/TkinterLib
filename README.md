@@ -5,22 +5,22 @@
   <img src="https://img.shields.io/badge/Tkinter-1F2A44?style=for-the-badge" alt="Tkinter" />
 </p>
 
-## 🇬🇧 Overview
+## Overview
 
 Two annotated Tkinter examples covering labels, buttons, entries, the grid/pack/place layouts and widgets such as Text, Scale, Spinbox, Checkbutton, Radiobutton and Listbox.
 
 **Quick start:** `python 01-tkinter_example.py`
 
-## 🇹🇷 Proje hakkında
+## Proje hakkında
 
 Tkinter temellerini açıklamalı iki örnekle anlatan not deposu.
 
-## 📚 İçerik
+## İçerik
 
 - `01-tkinter_example.py`: pencere, Label, Button, Entry; `pack`, `place` ve `grid` yerleşimleri
 - `02-widget_example.py`: Text, Scale, Spinbox, Checkbutton, Radiobutton, Listbox ve olay fonksiyonları
 
-## ⚙️ Kurulum ve çalıştırma
+## Kurulum ve çalıştırma
 
 Ek bağımlılık yoktur.
 
@@ -28,7 +28,7 @@ Ek bağımlılık yoktur.
 python 02-widget_example.py
 ```
 
-## 📁 Dosya yapısı
+## Dosya yapısı
 
 ```text
 TkinterLib/
